@@ -1,4 +1,4 @@
-# Let's Do It, Romania! #
+# Let's Do It: World Cleanup Day! #
 
 ### Install steps
 
