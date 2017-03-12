@@ -3,6 +3,7 @@
 ![World Cleanup Day](https://s3.eu-central-1.amazonaws.com/lets-do-it-world/letsdoitworld-logo.jpg)
 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c5d464b42bab43b087f03dfa1c54850e)](https://www.codacy.com/app/krishaamer/World-Cleanup-Day-Platform?utm_source=github.com&utm_medium=referral&utm_content=letsdoitworld/World-Cleanup-Day-Platform&utm_campaign=badger)
 [![Code Climate](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Platform/badges/gpa.svg)](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Platform)
 [![CodeFactor](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-platform/badge)](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-platform)
 
