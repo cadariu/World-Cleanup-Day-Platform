@@ -4,6 +4,7 @@
 
 
 [![Code Climate](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Platform/badges/gpa.svg)](https://lima.codeclimate.com/github/letsdoitworld/World-Cleanup-Day-Platform)
+[![CodeFactor](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-platform/badge)](https://www.codefactor.io/repository/github/letsdoitworld/world-cleanup-day-platform)
 
 ### Install steps
 
