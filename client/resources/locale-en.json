@@ -230,7 +230,7 @@
   "views.admin.generateReport" : "Generate Report",
 
   "views.statistics.county" : "County",
-  "views.statistics.piles" : "Piles",
+  "views.statistics.piles" : "Trash points",
   "views.statistics.pending" : "Pending",
   "views.statistics.confirmed" : "Confirmed",
   "views.statistics.uncofirmed" : "Unconfirmed",
@@ -300,11 +300,11 @@
   "views.editSingleUser.settings" : "Settings",
 
   "views.map.locateMe" : "Locate me",
-  "views.map.reportNewPile" : "Report a new pile",
+  "views.map.reportNewPile" : "Report a new trash point",
   "views.map.dragToLocation" : "Drag to location",
   "views.map.legend" : "Legend",
-  "views.map.otherPiles" : "Other piles",
-  "views.map.myPiles" : "Your piles",
+  "views.map.otherPiles" : "Other's trash points",
+  "views.map.myPiles" : "My trash points",
   "views.map.reported" : "Reported",
   "views.map.pending" : "Pending",
   "views.map.confirmed" : "Confirmed",
@@ -313,7 +313,7 @@
   "views.map.located" : "User located",
 
   "views.addPile.stepOne" : "Upload Photos",
-  "views.addPile.stepTwo" : "Pile Details",
+  "views.addPile.stepTwo" : "Details",
   "views.addPile.stepThree" : "Description",
   "views.addPile.stepFour" : "Summary",
 
@@ -340,7 +340,7 @@
   "views.addPile.onlyPhotos" : "Only image files are allowed",
   "views.addPile.file" : "File",
   "views.addPile.fileExceeds" : "exceeds maximum limit of",
-  "views.addPile.reportSuccess" : "Pile reported successfully",
+  "views.addPile.reportSuccess" : "Trash point reported successfully",
   "views.addPile.errorUpload" : "Image could not be uploaded",
   "views.addPile.errorPileCreate" : "Pile could not be created",
   "views.addPile.cancelReport" : "Reporting canceled",
